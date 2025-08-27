@@ -1,0 +1,2 @@
+# Hackazards
+Hackathon projects
